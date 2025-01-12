@@ -1,2 +1,2 @@
 # maxDS
-A Nintendo DS Emulator for Google TV and Android
+A Cross-Platform Nintendo DS Emulator
